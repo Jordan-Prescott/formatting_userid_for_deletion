@@ -7,6 +7,19 @@ of formatting the user. Option one which takes the whole number in the userID an
 of the number. The final output is Magic template to delete users with the task ID, userID, Service provider, Group ID and Index 
 in each row.
 
+Example Input:
+Number
+3216549870
+2164219846
+2216461321
+6549812123
+3214684651
+2168463522
+1651874985
+9431321642
+3123131642
+1981132168
+
 Exammple output:
 task,userId,serviceProviderId,groupId,index
 user.delete,3098@domain.ev.com,ServiceP,MARSHA,1
