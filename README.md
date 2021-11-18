@@ -22,6 +22,7 @@ Number
 
 Exammple output:
 task,userId,serviceProviderId,groupId,index
+
 user.delete,3098@domain.ev.com,ServiceP,MARSHA,1
 user.delete,3010@domain.ev.com,ServiceP,MARSHA,2
 user.delete,2046@domain.ev.com,ServiceP,MARSHA,3
